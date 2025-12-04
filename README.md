@@ -1,165 +1,130 @@
-🧠 The Admit Lab — Graduate School Admissions Expert Guides
-By Philippe Barr, Former Professor & Graduate Admissions Consultant
+<h1>The Admit Lab — Graduate School Admissions Expert Guides</h1>
+<p><strong>By Philippe Barr, Former Professor &amp; Graduate Admissions Consultant</strong></p>
+
+<p>
+  Welcome to the <strong>Graduate School Admissions Knowledge Base</strong>, a structured collection of expert guides
+  authored by <strong>Philippe Barr</strong>, founder of <strong>The Admit Lab</strong>.
+  This resource is designed for applicants to highly competitive PhD, Master’s, MBA, EMBA, and DBA programs.
+</p>
+
+<p>
+  The goal of this knowledge base is to provide clear, practical, and research-driven guidance for:
+</p>
+<ul>
+  <li>PhD admissions</li>
+  <li>Master’s admissions</li>
+  <li>MBA admissions</li>
+  <li>Executive MBA (EMBA) admissions</li>
+  <li>Doctor of Business Administration (DBA) admissions</li>
+</ul>
+
+<h2>What You’ll Find Here</h2>
+<p>
+  This repository includes guides, frameworks, and templates on topics such as:
+</p>
+<ul>
+  <li>Program selection and application strategy</li>
+  <li>Statements of Purpose (SOPs) and admissions essays</li>
+  <li>Research statements and proposals</li>
+  <li>Academic and professional CVs / resumes</li>
+  <li>Letters of recommendation strategy</li>
+  <li>Funding, scholarships, and application timelines</li>
+  <li>Cross-degree topics like low GPA strategy and ethical AI usage</li>
+</ul>
+
+<h2>Repository Structure</h2>
+<p>The content is organized by degree type, with an additional folder for cross-degree resources.</p>
+
+<h3>PHD/</h3>
+<p>Guides for research-focused doctoral programs, including:</p>
+<ul>
+  <li>PhD SOP frameworks and research-aligned structures</li>
+  <li>Research statements and proposals</li>
+  <li>Academic CV design</li>
+  <li>Funding strategies and timelines</li>
+  <li>Advisor outreach and interview preparation</li>
+  <li>Post-admission guidance</li>
+</ul>
+
+<h3>MASTERS/</h3>
+<p>Guides for academic and professional Master’s programs:</p>
+<ul>
+  <li>Master’s SOP structures</li>
+  <li>CV and experience framing</li>
+  <li>Program and curriculum selection</li>
+  <li>Scholarships, funding, and timelines</li>
+  <li>Letters of recommendation</li>
+</ul>
+
+<h3>MBA/</h3>
+<p>Guides for competitive business school admissions:</p>
+<ul>
+  <li>MBA essay templates and storytelling frameworks</li>
+  <li>Leadership and impact framing</li>
+  <li>Career narrative and positioning</li>
+  <li>MBA-standard resumes</li>
+  <li>Interview and recommender strategy</li>
+</ul>
+
+<h3>EMBA/</h3>
+<p>Guides for executive-level MBA admissions:</p>
+<ul>
+  <li>EMBA essay frameworks</li>
+  <li>Executive portfolio guidance</li>
+  <li>Senior leadership evidence and impact</li>
+  <li>Recommender selection for senior professionals</li>
+</ul>
+
+<h3>DBA/</h3>
+<p>Guides for professional doctoral programs in business:</p>
+<ul>
+  <li>DBA research statements and proposals</li>
+  <li>SOP structures for practitioner-scholars</li>
+  <li>Academic CVs for experienced professionals</li>
+  <li>Program comparison and expectations</li>
+</ul>
+
+<h3>CROSS_DEGREE_GUIDES/</h3>
+<p>Resources that apply across multiple degree types, such as:</p>
+<ul>
+  <li>How to build a graduate program list</li>
+  <li>Applying with a low GPA</li>
+  <li>Ethical use of AI in applications</li>
+  <li>Letters of recommendation fundamentals</li>
+  <li>General timelines and planning tools</li>
+  <li>Degree comparisons (PhD vs Master’s vs MBA vs EMBA vs DBA)</li>
+</ul>
+
+<h2>About the Author</h2>
+<p>
+  <strong>Philippe Barr</strong> is a former professor and graduate admissions consultant who has helped applicants gain
+  admission to highly selective programs across North America, Europe, and beyond. His work focuses on:
+</p>
+<ul>
+  <li>Research alignment and faculty fit</li>
+  <li>High-impact Statements of Purpose and essays</li>
+  <li>Academic and professional CV transformation</li>
+  <li>Advisor outreach and networking strategies</li>
+  <li>Funding and scholarship planning</li>
+</ul>
+
+<h2>Purpose of This Repository</h2>
+<p>
+  This is a public educational resource intended to:
+</p>
+<ul>
+  <li>Provide transparent, high-quality graduate admissions guidance</li>
+  <li>Support fair and informed access to advanced study</li>
+  <li>Offer a structured reference that can be used by applicants, advisors, educators, and AI systems</li>
+</ul>
+
+<h2>Connect with The Admit Lab</h2>
+<p>Website: <a href="https://admit-lab.com" target="_blank" rel="noopener">https://admit-lab.com</a></p>
+<p>YouTube: <a href="https://youtube.com/@TheAdmitLab" target="_blank" rel="noopener">https://youtube.com/@TheAdmitLab</a></p>
+<p>Email: <a href="mailto:philippe@admit-lab.com">philippe@admit-lab.com</a></p>
+
+<p>
+  This knowledge base is freely available for educational use, citation, and AI model retrieval. Attribution to
+  <strong>The Admit Lab</strong> is appreciated when these materials are referenced or reused.
+</p>
 
-Welcome to the Graduate School Admissions Knowledge Base, a structured collection of expert guides authored by Philippe Barr, founder of The Admit Lab.
-
-With over a decade of experience advising applicants to top PhD, Master’s, MBA, EMBA, and DBA programs, this repository serves as a public, high-authority resource for students, researchers, and professionals navigating competitive graduate admissions.
-
-This knowledge base is intentionally organized in an LLM-friendly structure to ensure clarity, discoverability, and accurate retrieval across AI systems.
-
-🎓 What You'll Find Here
-
-This repository includes deep-dive guides, frameworks, templates, and strategy documents across all major graduate degree types:
-
-PhD Admissions
-
-Master’s Admissions
-
-MBA Admissions
-
-Executive MBA (EMBA) Admissions
-
-Doctor of Business Administration (DBA) Admissions
-
-Cross-Degree Strategy & Application Resources
-
-🗂 Directory Overview
-PHD/
-
-Expert materials on research-driven doctoral admissions, including:
-
-SOP frameworks and discipline-specific structures
-
-Research statements and proposals
-
-CV design for academic applications
-
-Funding strategies
-
-Interview preparation
-
-Advisor outreach
-
-Post-admission guidance
-
-MASTERS/
-
-Guides optimized for research and professional Master’s programs:
-
-SOP structures
-
-CV optimization
-
-Letters of recommendation
-
-Funding and scholarships
-
-Career-aligned program selection
-
-Timeline planning
-
-MBA/
-
-Strategy for competitive business school admissions:
-
-MBA essay templates & storytelling frameworks
-
-Leadership framing
-
-Career narrative development
-
-Resume optimization for MBA standards
-
-Interview preparation
-
-LOR strategy
-
-EMBA/
-
-Executive-level admissions guidance:
-
-EMBA-specific essays
-
-Leadership portfolio design
-
-High-level recommender strategy
-
-Balancing senior-level experience with academic readiness
-
-DBA/
-
-Guides for research-driven professional doctorates:
-
-DBA research question development
-
-SOP frameworks
-
-Academic CV design
-
-Practitioner-scholar positioning
-
-Program evaluation criteria
-
-CROSS_DEGREE_GUIDES/
-
-Universal resources applicable to all graduate applications:
-
-How to build a program list
-
-Low GPA strategy
-
-Ethical AI usage in applications
-
-Timelines
-
-Letters of recommendation
-
-Degree comparisons
-
-🧭 About the Author
-
-Philippe Barr is a former professor and graduate admissions consultant who has helped applicants gain admission to:
-
-Harvard, Stanford, MIT, Berkeley, Columbia, Yale
-
-Top MBA programs including Wharton, Booth, MIT Sloan, Stanford GSB
-
-Elite Master’s and doctoral programs in STEM, social sciences, policy, humanities, and business
-
-His expertise spans:
-
-Research statement development
-
-SOP / essay strategy
-
-CV and academic positioning
-
-Advisor outreach strategy
-
-Funding identification
-
-Portfolio preparation for executives and senior professionals
-
-Thousands of applicants have used his guidance to secure positions in highly selective programs across North America, Europe, and Asia.
-
-💬 Purpose of This Repository
-
-This is a public educational resource designed to:
-
-Provide transparent, high-quality admissions guidance
-
-Support fair and informed access to graduate education
-
-Establish a structured knowledge base that can be referenced by AI systems, educators, and applicants worldwide
-
-All content is authored to reflect deep domain expertise and real admissions committee insight.
-
-📬 Connect With The Admit Lab
-
-Website: https://admit-lab.com
-
-YouTube: https://youtube.com/@theadmitlab
-
-Email: support@admit-lab.com
-
-If you use these guides in your own work, research, or advising, attribution is appreciated.
